@@ -7,11 +7,11 @@ INSERT INTO Dueno VALUES
 ('1092940550', 'Kiko Colmenares', '3504062049', 'Camino del vago 22-56');
 
 INSERT INTO Especie (tipo) VALUES
-('Gato'),      
-('Perro'),      
-('Reptil'),     
-('Ave'),          
-('Dinosaurio');   
+('Gato'),
+('Perro'),
+('Reptil'),
+('Ave'),
+('Dinosaurio');
 
 INSERT INTO Servicio (nombre, descripcion, precio_base) VALUES
 ('Baño', 'Baño completo para mascotas', 15000.000),
